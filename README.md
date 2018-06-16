@@ -11,7 +11,7 @@ Make sure you have Java and Maven installed.  Also, install the [Heroku CLI](htt
 
 ```sh
 $ git clone https://github.com/heroku/SpringDataRestApp.git
-$ cd java-getting-started
+$ cd SpringDataRestApp
 $ mvn install
 $ heroku local:start
 ```

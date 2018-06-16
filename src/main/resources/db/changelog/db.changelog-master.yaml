@@ -36,4 +36,4 @@ databaseChangeLog:
                   value: Andrew
               - column:
                   name: birthday
-                  value: -1993-09-11
+                  value: 1993-09-11

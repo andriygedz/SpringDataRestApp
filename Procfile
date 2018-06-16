@@ -1,1 +1,1 @@
-web: mvn spring-boot:run
+web: java -jar target/spring-boot-sample-liquibase-2.0.3.RELEASE.jar
